@@ -2,7 +2,8 @@
 
 A fun and interactive memory card matching game built with HTML, CSS, and JavaScript. Test your memory by matching pairs of emoji cards in the shortest time and with the fewest moves possible!
 
-![Game Screenshot](screenshot.png) *(Note: You would add an actual screenshot here)*
+![Game Screenshot](![Screenshot 2025-04-19 141500](https://github.com/user-attachments/assets/2ed72490-f5d8-445d-819c-287e1d349b0a)
+) *(Note: You would add an actual screenshot here)*
 
 ## Features
 
