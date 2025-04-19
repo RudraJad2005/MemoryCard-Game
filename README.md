@@ -38,7 +38,7 @@ No installation required! Simply open the `index.html` file in any modern web br
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ## Customization
 
